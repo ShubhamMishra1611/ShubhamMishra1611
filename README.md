@@ -26,7 +26,8 @@
 I am a scholar delving into Deep Learning and machine learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Currently I am farming my artifacts in the world of Machine learning and Deep learning. 
 
-- :seedling: Doing the quests of MLOPs and android development. 
+- :seedling: Doing the quests of MLOPs and android development.
+- :book: Here, why not read some of my articles on [medium](https://medium.com/@smishraonline16)
 
 - :zap: I make some 3D art on blender. Come have a look @shubham_mishra_em. I also play genshin when free.
 
